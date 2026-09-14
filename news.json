@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "TechPulse",
-  "generated_at": "2026-09-14T01:12:17.853080+00:00",
+  "generated_at": "2026-09-14T01:41:02.434728+00:00",
   "article_count": 100,
   "source_count": 10,
   "source_health": [
@@ -73,19 +73,19 @@
   ],
   "articles": [
     {
-      "id": "TP-031de9e3e57c",
+      "id": "TP-8a531904c85d",
       "cluster_id": "CL-0171",
-      "title": "Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor",
-      "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games",
+      "title": "World of Warcraft Forever Officially Brings Gamepad Controls Blizzard's MMO",
+      "summary": "World of Warcraft is usually played with a keyboard and mouse, but the new \"Classic Plus\" WoW release can be fully played with a gamepad.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "Gaming",
       "subcategory": "Gaming",
-      "published_at": "2026-09-14T01:05:42+00:00",
+      "published_at": "2026-09-14T01:30:10+00:00",
       "source": "Polygon",
       "source_type": "secondary",
-      "url": "https://www.polygon.com/blizzcon-interview-battle-net/",
+      "url": "https://www.polygon.com/world-of-warcraft-forever-gamepad-support-blizzcon-2026/",
       "confidence": 58,
       "importance": 70,
       "freshness": 100,
@@ -97,32 +97,6 @@
       ],
       "corroborating_sources": [],
       "rank": 1
-    },
-    {
-      "id": "TP-2c3fe76ff99e",
-      "cluster_id": "CL-0172",
-      "title": "14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming",
-      "summary": "Check out of the best-kept secrets from the last heights of basic cable",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-14T01:00:15+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/leverage-free-youtube/",
-      "confidence": 58,
-      "importance": 70,
-      "freshness": 100,
-      "momentum": 71,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 2
     },
     {
       "id": "TP-8dd937f03eb9",
@@ -148,7 +122,59 @@
         "Ars Technica"
       ],
       "corroborating_sources": [],
+      "rank": 2
+    },
+    {
+      "id": "TP-031de9e3e57c",
+      "cluster_id": "CL-0172",
+      "title": "Blizzard Has No Plans To Turn Battle.net Into A Steam Competitor",
+      "summary": "Even though The Witcher 3 Remastered and Cyberpunk 2077 are coming to Battle.net, Blizzard tells Polygon not to expect a flood of third-party games",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-14T01:05:42+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/blizzcon-interview-battle-net/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 99,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
       "rank": 3
+    },
+    {
+      "id": "TP-2c3fe76ff99e",
+      "cluster_id": "CL-0173",
+      "title": "14 Years Later, TNT's Criminally Overlooked Action Series Is Officially Free on Streaming",
+      "summary": "Check out of the best-kept secrets from the last heights of basic cable",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-14T01:00:15+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/leverage-free-youtube/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 99,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 4
     },
     {
       "id": "TP-fff5416b1421",
@@ -166,7 +192,7 @@
       "url": "https://www.engadget.com/2252867/usb-c-vs-magsafe-best-macbook-charging-option/",
       "confidence": 58,
       "importance": 70,
-      "freshness": 99,
+      "freshness": 98,
       "momentum": 70,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -174,7 +200,7 @@
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 4
+      "rank": 5
     },
     {
       "id": "TP-ef6d8d2cdb3c",
@@ -191,16 +217,16 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2252864/ethernet-cable-length-drops-lower-speeds/",
       "confidence": 58,
-      "importance": 70,
-      "freshness": 98,
-      "momentum": 70,
+      "importance": 69,
+      "freshness": 97,
+      "momentum": 69,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 5
+      "rank": 6
     },
     {
       "id": "TP-784702d65933",
@@ -218,7 +244,7 @@
       "url": "https://www.engadget.com/2252861/android-auto-feature-easier-long-drive/",
       "confidence": 58,
       "importance": 69,
-      "freshness": 97,
+      "freshness": 96,
       "momentum": 69,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -226,11 +252,11 @@
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 6
+      "rank": 7
     },
     {
       "id": "TP-8b1ffd9376e4",
-      "cluster_id": "CL-0173",
+      "cluster_id": "CL-0174",
       "title": "Diablo 5 Has A Surprising Connection To Dragon Age",
       "summary": "Former BioWare dev Jennifer Hepler tells Polygon, \"My experience with traditional RPGs has definitely been a strength\" during Diablo 5's development",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -244,38 +270,12 @@
       "url": "https://www.polygon.com/diablo-5-interview-jennifer-hepler-blizzcon-2026/",
       "confidence": 58,
       "importance": 69,
-      "freshness": 97,
-      "momentum": 69,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 7
-    },
-    {
-      "id": "TP-5d62ce4e3ceb",
-      "cluster_id": "CL-0081",
-      "title": "How to use GPT-6 Astra when it rolls out to you",
-      "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-13T23:00:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
-      "confidence": 58,
-      "importance": 69,
       "freshness": 96,
       "momentum": 69,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
-        "Engadget"
+        "Polygon"
       ],
       "corroborating_sources": [],
       "rank": 8
@@ -296,7 +296,7 @@
       "url": "https://techcrunch.com/2026/09/13/insight-partners-devin-parekh-on-why-the-firm-is-diversifying-while-everyone-else-bets-the-farm-on-openai-and-anthropic/",
       "confidence": 61,
       "importance": 70,
-      "freshness": 93,
+      "freshness": 92,
       "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -305,6 +305,32 @@
       ],
       "corroborating_sources": [],
       "rank": 9
+    },
+    {
+      "id": "TP-5d62ce4e3ceb",
+      "cluster_id": "CL-0081",
+      "title": "How to use GPT-6 Astra when it rolls out to you",
+      "summary": "OpenAI's new model, GPT-6 Astra, has begun rolling out to users. Here's how you can get it and pitfalls to avoid.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-13T23:00:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2252859/how-to-use-gpt-6-astra-rollout-schedule/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 95,
+      "momentum": 68,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 10
     },
     {
       "id": "TP-6146e1aeb620",
@@ -322,7 +348,7 @@
       "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-3-telecom-satellites-to-orbit-on-700th-falcon-mission-of-all-time-video",
       "confidence": 61,
       "importance": 70,
-      "freshness": 93,
+      "freshness": 92,
       "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -330,7 +356,7 @@
         "Space.com"
       ],
       "corroborating_sources": [],
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "TP-8e54f164b9f3",
@@ -348,8 +374,8 @@
       "url": "https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/",
       "confidence": 70,
       "importance": 76,
-      "freshness": 72,
-      "momentum": 72,
+      "freshness": 71,
+      "momentum": 71,
       "verification_status": "VERIFIED",
       "status": "NEW",
       "tags": [
@@ -363,7 +389,7 @@
           "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/"
         }
       ],
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "TP-4f8fec024a9b",
@@ -380,8 +406,8 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2252858/how-to-fix-imessage-not-delivered-on-iphone/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 95,
+      "importance": 68,
+      "freshness": 94,
       "momentum": 68,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -389,11 +415,11 @@
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 12
+      "rank": 13
     },
     {
       "id": "TP-7fb23324d30a",
-      "cluster_id": "CL-0174",
+      "cluster_id": "CL-0175",
       "title": "Why StarCraft Isn't Coming Back Until 2030",
       "summary": "StarCraft general manager Dan Hay explains why Blizzard announced the new StarCraft and why it's aiming for a 2030 release.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -406,8 +432,8 @@
       "source_type": "secondary",
       "url": "https://www.polygon.com/starcraft-2030-release-date-dan-hay-blizzcon-2026/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 95,
+      "importance": 68,
+      "freshness": 94,
       "momentum": 68,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -415,7 +441,7 @@
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 13
+      "rank": 14
     },
     {
       "id": "TP-57910f71290d",
@@ -433,7 +459,7 @@
       "url": "https://techcrunch.com/2026/09/13/larry-ellison-cancels-7-5-billion-sale-of-oracle-stock/",
       "confidence": 61,
       "importance": 70,
-      "freshness": 91,
+      "freshness": 90,
       "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -441,7 +467,7 @@
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 14
+      "rank": 15
     },
     {
       "id": "TP-79a6f0393900",
@@ -459,7 +485,7 @@
       "url": "https://techcrunch.com/2026/09/13/the-9-buzziest-startups-from-y-combinators-latest-demo-day-according-to-vcs/",
       "confidence": 61,
       "importance": 70,
-      "freshness": 91,
+      "freshness": 90,
       "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -467,7 +493,7 @@
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 15
+      "rank": 16
     },
     {
       "id": "TP-4022c7a7f9b5",
@@ -485,7 +511,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
       "confidence": 61,
       "importance": 70,
-      "freshness": 91,
+      "freshness": 90,
       "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -493,7 +519,7 @@
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 16
+      "rank": 17
     },
     {
       "id": "TP-e2923b31e2df",
@@ -511,19 +537,19 @@
       "url": "https://www.engadget.com/2252857/why-are-imax-cameras-so-loud-explained/",
       "confidence": 58,
       "importance": 68,
-      "freshness": 94,
-      "momentum": 68,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 17
+      "rank": 18
     },
     {
       "id": "TP-c1d7a8b419d7",
-      "cluster_id": "CL-0175",
+      "cluster_id": "CL-0176",
       "title": "40 Years Later, Transformers Officially Embraces Its Most Heartbreaking Controversy",
       "summary": "For the 40th anniversary of The Transformers: The Movie",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -537,15 +563,41 @@
       "url": "https://www.polygon.com/40th-anniversary-transformers-the-movie-hasbro-interview/",
       "confidence": 58,
       "importance": 68,
-      "freshness": 94,
-      "momentum": 68,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 18
+      "rank": 19
+    },
+    {
+      "id": "TP-f83a9b000a81",
+      "cluster_id": "CL-0177",
+      "title": "2026’s Best Puzzle Game Is an Even Trippier Take On Portal",
+      "summary": "He Who Watches is an excellent new game that keeps the spirit of Portal alive with mind-bending puzzles.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-13T21:00:14+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/he-who-watches-impressions/",
+      "confidence": 58,
+      "importance": 68,
+      "freshness": 91,
+      "momentum": 66,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 20
     },
     {
       "id": "TP-89769e5f1d2d",
@@ -562,16 +614,16 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
       "confidence": 61,
-      "importance": 70,
-      "freshness": 89,
-      "momentum": 65,
+      "importance": 69,
+      "freshness": 88,
+      "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 19
+      "rank": 21
     },
     {
       "id": "TP-76cfee61f91f",
@@ -588,42 +640,16 @@
       "source_type": "secondary",
       "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
       "confidence": 61,
-      "importance": 70,
-      "freshness": 89,
-      "momentum": 65,
+      "importance": 69,
+      "freshness": 88,
+      "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 20
-    },
-    {
-      "id": "TP-f83a9b000a81",
-      "cluster_id": "CL-0176",
-      "title": "2026’s Best Puzzle Game Is an Even Trippier Take On Portal",
-      "summary": "He Who Watches is an excellent new game that keeps the spirit of Portal alive with mind-bending puzzles.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-13T21:00:14+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/he-who-watches-impressions/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 92,
-      "momentum": 67,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 21
+      "rank": 22
     },
     {
       "id": "TP-d781644f77d3",
@@ -641,32 +667,6 @@
       "url": "https://www.engadget.com/2256984/sam-altman-says-openai-wont-file-for-ipo-this-year/",
       "confidence": 58,
       "importance": 68,
-      "freshness": 91,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 22
-    },
-    {
-      "id": "TP-df4590fd8bbc",
-      "cluster_id": "CL-0085",
-      "title": "How to adjust the Liquid Glass effect on your iPhone with iOS 27",
-      "summary": "If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Technology",
-      "subcategory": "Technology",
-      "published_at": "2026-09-13T20:00:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
-      "confidence": 58,
-      "importance": 68,
       "freshness": 90,
       "momentum": 66,
       "verification_status": "DEVELOPING",
@@ -676,32 +676,6 @@
       ],
       "corroborating_sources": [],
       "rank": 23
-    },
-    {
-      "id": "TP-aaed6fbcc688",
-      "cluster_id": "CL-0177",
-      "title": "Matchbox's Director Drove a Truck Off a 200-Foot Bridge: \"We Did It for Real!\"",
-      "summary": "Sam Hargrave answers our seven biggest questions about Matchbox: The Movie",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-13T20:00:14+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/matchbox-movie-director-interview-sam-hargrave-preview/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 90,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 24
     },
     {
       "id": "TP-8b6c5a92da63",
@@ -719,38 +693,64 @@
       "url": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
       "confidence": 61,
       "importance": 69,
-      "freshness": 87,
-      "momentum": 64,
+      "freshness": 86,
+      "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 25
+      "rank": 24
     },
     {
-      "id": "TP-b5ed0a654b07",
-      "cluster_id": "CL-0023",
-      "title": "The Units’ Digital Stimulation is synthpunk perfection",
-      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock […]",
+      "id": "TP-df4590fd8bbc",
+      "cluster_id": "CL-0085",
+      "title": "How to adjust the Liquid Glass effect on your iPhone with iOS 27",
+      "summary": "If you've never been satisfied with Liquid Glass on your Phone, then you'll probably like some of the new customization options Apple offers in iOS 27.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "Technology",
       "subcategory": "Technology",
-      "published_at": "2026-09-13T17:36:10+00:00",
-      "source": "The Verge",
+      "published_at": "2026-09-13T20:00:00+00:00",
+      "source": "Engadget",
       "source_type": "secondary",
-      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
-      "confidence": 61,
-      "importance": 68,
-      "freshness": 85,
-      "momentum": 63,
+      "url": "https://www.engadget.com/2252856/how-to-adjust-liquid-glass-effect-ios-27/",
+      "confidence": 58,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
-        "The Verge"
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 25
+    },
+    {
+      "id": "TP-aaed6fbcc688",
+      "cluster_id": "CL-0178",
+      "title": "Matchbox's Director Drove a Truck Off a 200-Foot Bridge: \"We Did It for Real!\"",
+      "summary": "Sam Hargrave answers our seven biggest questions about Matchbox: The Movie",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-13T20:00:14+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/matchbox-movie-director-interview-sam-hargrave-preview/",
+      "confidence": 58,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
       ],
       "corroborating_sources": [],
       "rank": 26
@@ -771,7 +771,7 @@
       "url": "https://www.engadget.com/2256966/teslas-second-gen-roadster-is-finally-getting-a-debut-nearly-a-decade-later/",
       "confidence": 58,
       "importance": 67,
-      "freshness": 88,
+      "freshness": 87,
       "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -780,6 +780,58 @@
       ],
       "corroborating_sources": [],
       "rank": 27
+    },
+    {
+      "id": "TP-074ca726bd71",
+      "cluster_id": "CL-0179",
+      "title": "The Greatest Video Game Franchises of the 20th Century, Ranked",
+      "summary": "Without some key video game franchises livening up the 20th century, it wouldn't have been nearly as memorable.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-13T19:01:14+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/best-video-game-franchises-20th-century/",
+      "confidence": 58,
+      "importance": 67,
+      "freshness": 87,
+      "momentum": 64,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 28
+    },
+    {
+      "id": "TP-b5ed0a654b07",
+      "cluster_id": "CL-0023",
+      "title": "The Units’ Digital Stimulation is synthpunk perfection",
+      "summary": "The Units are a band I discovered in part thanks to No Dogs in Space. During their miniseries on The Screamers (another incredible band worth checking out), they mention synthpunk.org as one of their sources. And there's no better way to get my attention than to combine two of my favorite things - punk rock […]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Technology",
+      "subcategory": "Technology",
+      "published_at": "2026-09-13T17:36:10+00:00",
+      "source": "The Verge",
+      "source_type": "secondary",
+      "url": "https://www.theverge.com/entertainment/994415/the-units-digital-stimulation-synthpunk-review",
+      "confidence": 61,
+      "importance": 68,
+      "freshness": 84,
+      "momentum": 62,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 29
     },
     {
       "id": "TP-041f0bc1d5ed",
@@ -797,41 +849,15 @@
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-13-2026",
       "confidence": 61,
       "importance": 68,
-      "freshness": 85,
-      "momentum": 63,
+      "freshness": 84,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Space.com"
       ],
       "corroborating_sources": [],
-      "rank": 28
-    },
-    {
-      "id": "TP-074ca726bd71",
-      "cluster_id": "CL-0178",
-      "title": "The Greatest Video Game Franchises of the 20th Century, Ranked",
-      "summary": "Without some key video game franchises livening up the 20th century, it wouldn't have been nearly as memorable.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-13T19:01:14+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/best-video-game-franchises-20th-century/",
-      "confidence": 58,
-      "importance": 67,
-      "freshness": 88,
-      "momentum": 64,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 29
+      "rank": 30
     },
     {
       "id": "TP-93d5e348e815",
@@ -848,16 +874,16 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2252855/applecare-plus-vs-applecare-one-differences/",
       "confidence": 58,
-      "importance": 67,
-      "freshness": 87,
-      "momentum": 64,
+      "importance": 66,
+      "freshness": 86,
+      "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 30
+      "rank": 31
     },
     {
       "id": "TP-7e363c87d8ff",
@@ -875,15 +901,15 @@
       "url": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
       "confidence": 61,
       "importance": 68,
-      "freshness": 83,
-      "momentum": 62,
+      "freshness": 82,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 31
+      "rank": 32
     },
     {
       "id": "TP-815369d4e419",
@@ -901,7 +927,7 @@
       "url": "https://www.engadget.com/2256955/apples-rumored-gaming-controller-for-iphone-could-feature-beats-branding/",
       "confidence": 58,
       "importance": 66,
-      "freshness": 86,
+      "freshness": 85,
       "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -909,7 +935,7 @@
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 32
+      "rank": 33
     },
     {
       "id": "TP-50d6a25b9c6b",
@@ -927,7 +953,7 @@
       "url": "https://www.engadget.com/2252851/wifi-router-usb-port-explained/",
       "confidence": 58,
       "importance": 66,
-      "freshness": 86,
+      "freshness": 85,
       "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -935,11 +961,11 @@
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 33
+      "rank": 34
     },
     {
       "id": "TP-85ca6169e313",
-      "cluster_id": "CL-0179",
+      "cluster_id": "CL-0180",
       "title": "'Buddy' is Totally Bonkers, But it Will Never Eclipse My Favorite “I Hate Barney” Thriller",
       "summary": "The best anti-Barney movie isn't Buddy, its the 2002 comedy Death to Smoochy starring Robin Williams and Edward Norton with director Danny DeVito",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -953,7 +979,7 @@
       "url": "https://www.polygon.com/buddy-vs-death-to-smoochy/",
       "confidence": 58,
       "importance": 66,
-      "freshness": 86,
+      "freshness": 85,
       "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -961,7 +987,7 @@
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 34
+      "rank": 35
     },
     {
       "id": "TP-8dd5fbf0fb91",
@@ -979,7 +1005,7 @@
       "url": "https://techcrunch.com/2026/09/13/techcrunch-mobility-lyft-has-entered-the-robotaxi-chat/",
       "confidence": 61,
       "importance": 68,
-      "freshness": 82,
+      "freshness": 81,
       "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -987,7 +1013,7 @@
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 35
+      "rank": 36
     },
     {
       "id": "TP-8782ef3fe0d9",
@@ -1005,38 +1031,12 @@
       "url": "https://www.engadget.com/2252850/why-car-manufacturers-ditching-carplay-explained/",
       "confidence": 58,
       "importance": 66,
-      "freshness": 85,
-      "momentum": 63,
+      "freshness": 84,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 36
-    },
-    {
-      "id": "TP-b6b6a36b0bb2",
-      "cluster_id": "CL-0180",
-      "title": "Cyberpunk: Edgerunners Is Overwatch's Next Big Anime Collaboration",
-      "summary": "Cyberpunk 2077: Ultimate Edition will also come to Battle.net later this year",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Cybersecurity",
-      "subcategory": "Cybersecurity",
-      "published_at": "2026-09-13T17:28:43+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/cyberpunk-edgerunners-overwatch/",
-      "confidence": 58,
-      "importance": 66,
-      "freshness": 85,
-      "momentum": 63,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
       ],
       "corroborating_sources": [],
       "rank": 37
@@ -1083,8 +1083,8 @@
       "url": "https://www.engadget.com/2251471/useful-accessories-help-extend-hdmi-on-a-budget/",
       "confidence": 58,
       "importance": 66,
-      "freshness": 83,
-      "momentum": 62,
+      "freshness": 82,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1109,8 +1109,8 @@
       "url": "https://www.space.com/entertainment/best-underground-sci-fi-movies",
       "confidence": 61,
       "importance": 67,
-      "freshness": 80,
-      "momentum": 60,
+      "freshness": 79,
+      "momentum": 59,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1118,32 +1118,6 @@
       ],
       "corroborating_sources": [],
       "rank": 40
-    },
-    {
-      "id": "TP-00e28d8e61b2",
-      "cluster_id": "CL-0092",
-      "title": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
-      "summary": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-13T16:00:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/",
-      "confidence": 58,
-      "importance": 66,
-      "freshness": 82,
-      "momentum": 61,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 41
     },
     {
       "id": "TP-a195e107fc6a",
@@ -1161,12 +1135,38 @@
       "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
       "confidence": 61,
       "importance": 67,
-      "freshness": 79,
+      "freshness": 78,
       "momentum": 59,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 41
+    },
+    {
+      "id": "TP-00e28d8e61b2",
+      "cluster_id": "CL-0092",
+      "title": "What was the PSX? The souped-up PS2 rarely sold outside of Japan",
+      "summary": "The PSX isn't just an alternative name for the first PlayStation. It was also a failed Sony console that never got a release outside Japan.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-13T16:00:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2252840/psx-ps2-console-history-rarely-sold-outside-japan/",
+      "confidence": 58,
+      "importance": 65,
+      "freshness": 81,
+      "momentum": 61,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
       ],
       "corroborating_sources": [],
       "rank": 42
@@ -1187,8 +1187,8 @@
       "url": "https://www.engadget.com/2252834/laptop-trackpad-popping-out-stop-using-immediately-battery-swelling/",
       "confidence": 58,
       "importance": 65,
-      "freshness": 81,
-      "momentum": 61,
+      "freshness": 80,
+      "momentum": 60,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1212,9 +1212,9 @@
       "source_type": "secondary",
       "url": "https://www.space.com/space-exploration/international-space-station/nasa-astronaut-jessica-meir-shares-zero-g-curly-hair-tips-from-the-iss-video",
       "confidence": 61,
-      "importance": 67,
-      "freshness": 78,
-      "momentum": 59,
+      "importance": 66,
+      "freshness": 77,
+      "momentum": 58,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1239,8 +1239,8 @@
       "url": "https://www.engadget.com/2251050/apple-wired-earpods-still-worth-buying/",
       "confidence": 58,
       "importance": 65,
-      "freshness": 80,
-      "momentum": 60,
+      "freshness": 79,
+      "momentum": 59,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1265,8 +1265,8 @@
       "url": "https://techcrunch.com/2026/09/13/fusion-power-startups-find-new-partners-in-the-defense-world/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 76,
-      "momentum": 58,
+      "freshness": 75,
+      "momentum": 57,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1290,8 +1290,8 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2252831/what-use-instead-of-docking-station/",
       "confidence": 58,
-      "importance": 65,
-      "freshness": 79,
+      "importance": 64,
+      "freshness": 78,
       "momentum": 59,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1317,8 +1317,8 @@
       "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-discovers-the-rings-of-tiny-solar-system-body-chariklo-are-changing",
       "confidence": 61,
       "importance": 66,
-      "freshness": 76,
-      "momentum": 58,
+      "freshness": 75,
+      "momentum": 57,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1343,8 +1343,8 @@
       "url": "https://www.engadget.com/2252825/how-to-set-up-hdmi-cec-samsung-tv/",
       "confidence": 58,
       "importance": 64,
-      "freshness": 78,
-      "momentum": 59,
+      "freshness": 77,
+      "momentum": 58,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1369,7 +1369,7 @@
       "url": "https://www.engadget.com/2252829/never-use-harsh-cleaning-products-clean-smartphone/",
       "confidence": 58,
       "importance": 64,
-      "freshness": 77,
+      "freshness": 76,
       "momentum": 58,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1395,8 +1395,8 @@
       "url": "https://www.theverge.com/entertainment/994393/your-mother-your-mother-your-mother-review-tiff-2026",
       "confidence": 61,
       "importance": 65,
-      "freshness": 72,
-      "momentum": 56,
+      "freshness": 71,
+      "momentum": 55,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1421,8 +1421,8 @@
       "url": "https://www.wired.com/story/best-smart-bird-feeders/",
       "confidence": 61,
       "importance": 65,
-      "freshness": 72,
-      "momentum": 56,
+      "freshness": 71,
+      "momentum": 55,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1447,8 +1447,8 @@
       "url": "https://www.wired.com/story/iphone-settings-ios-27-safari-browser/",
       "confidence": 61,
       "importance": 65,
-      "freshness": 71,
-      "momentum": 55,
+      "freshness": 70,
+      "momentum": 54,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1473,8 +1473,8 @@
       "url": "https://www.wired.com/gallery/best-indoor-gardening-systems/",
       "confidence": 61,
       "importance": 65,
-      "freshness": 71,
-      "momentum": 55,
+      "freshness": 70,
+      "momentum": 54,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1498,8 +1498,8 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/review/coway-airmega-halo/",
       "confidence": 61,
-      "importance": 65,
-      "freshness": 70,
+      "importance": 64,
+      "freshness": 69,
       "momentum": 54,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1524,8 +1524,8 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/ai-agents-are-thirsty-for-power/",
       "confidence": 61,
-      "importance": 65,
-      "freshness": 70,
+      "importance": 64,
+      "freshness": 69,
       "momentum": 54,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1550,8 +1550,8 @@
       "source_type": "secondary",
       "url": "https://www.space.com/stargazing/dont-miss-venus-shine-beside-the-crescent-moon-at-sunset-tonight",
       "confidence": 61,
-      "importance": 65,
-      "freshness": 70,
+      "importance": 64,
+      "freshness": 69,
       "momentum": 54,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1577,8 +1577,8 @@
       "url": "https://www.wired.com/story/physics-predict-volcanic-eruptions/",
       "confidence": 61,
       "importance": 64,
-      "freshness": 69,
-      "momentum": 54,
+      "freshness": 68,
+      "momentum": 53,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1603,8 +1603,8 @@
       "url": "https://science.nasa.gov/image-article/apod-2026-september-13-comet-neowise-rising-over-the-adriatic-sea/",
       "confidence": 75,
       "importance": 66,
-      "freshness": 58,
-      "momentum": 48,
+      "freshness": 57,
+      "momentum": 47,
       "verification_status": "VERIFIED",
       "status": "NEW",
       "tags": [
@@ -1629,7 +1629,7 @@
       "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
       "confidence": 67,
       "importance": 67,
-      "freshness": 44,
+      "freshness": 43,
       "momentum": 56,
       "verification_status": "VERIFIED",
       "status": "NEW",
@@ -1662,7 +1662,7 @@
       "url": "https://techcrunch.com/2026/09/12/automattic-confirms-mullenweg-has-returned-as-ceo-after-attempted-ouster-by-board/",
       "confidence": 61,
       "importance": 59,
-      "freshness": 48,
+      "freshness": 47,
       "momentum": 42,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1688,7 +1688,7 @@
       "url": "https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter",
       "confidence": 61,
       "importance": 58,
-      "freshness": 42,
+      "freshness": 41,
       "momentum": 39,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1713,9 +1713,9 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
       "confidence": 61,
-      "importance": 58,
-      "freshness": 41,
-      "momentum": 39,
+      "importance": 57,
+      "freshness": 40,
+      "momentum": 38,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1740,8 +1740,8 @@
       "url": "https://techcrunch.com/2026/09/12/tesla-says-it-will-finally-unveil-the-second-generation-roadster-on-october-1/",
       "confidence": 61,
       "importance": 57,
-      "freshness": 40,
-      "momentum": 38,
+      "freshness": 39,
+      "momentum": 37,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1766,7 +1766,7 @@
       "url": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
       "confidence": 64,
       "importance": 57,
-      "freshness": 30,
+      "freshness": 29,
       "momentum": 32,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1792,8 +1792,8 @@
       "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
       "confidence": 61,
       "importance": 55,
-      "freshness": 31,
-      "momentum": 33,
+      "freshness": 30,
+      "momentum": 32,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -1817,8 +1817,8 @@
       "source_type": "secondary",
       "url": "https://www.space.com/space-exploration/trump-is-proposing-a-us-space-academy-if-created-it-could-blur-the-lines-between-nasa-and-the-military-op-ed",
       "confidence": 61,
-      "importance": 55,
-      "freshness": 30,
+      "importance": 54,
+      "freshness": 29,
       "momentum": 32,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1843,8 +1843,8 @@
       "source_type": "secondary",
       "url": "https://www.space.com/space-exploration/on-this-day-in-space-september-12-2026",
       "confidence": 61,
-      "importance": 55,
-      "freshness": 30,
+      "importance": 54,
+      "freshness": 29,
       "momentum": 32,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1870,7 +1870,7 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-227-trekmania",
       "confidence": 61,
       "importance": 54,
-      "freshness": 28,
+      "freshness": 27,
       "momentum": 31,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1896,7 +1896,7 @@
       "url": "https://www.space.com/entertainment/space-movies-shows/the-best-star-trek-spaceships-14-classic-vessels-from-the-federation-and-beyond",
       "confidence": 61,
       "importance": 54,
-      "freshness": 28,
+      "freshness": 27,
       "momentum": 31,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1921,8 +1921,8 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
       "confidence": 64,
-      "importance": 56,
-      "freshness": 24,
+      "importance": 55,
+      "freshness": 23,
       "momentum": 29,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1948,7 +1948,7 @@
       "url": "https://www.space.com/stargazing/astrophotography/perseid-meteors-meet-mesmerizing-star-trails-over-egypts-western-desert",
       "confidence": 61,
       "importance": 54,
-      "freshness": 26,
+      "freshness": 25,
       "momentum": 30,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -1974,7 +1974,7 @@
       "url": "https://www.wired.com/gallery/best-standing-desks/",
       "confidence": 61,
       "importance": 53,
-      "freshness": 24,
+      "freshness": 23,
       "momentum": 29,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -2000,7 +2000,7 @@
       "url": "https://www.wired.com/story/the-anti-woke-right-cant-figure-out-how-to-stop-grand-theft-auto-vi/",
       "confidence": 61,
       "importance": 53,
-      "freshness": 24,
+      "freshness": 23,
       "momentum": 29,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -2026,8 +2026,8 @@
       "url": "https://www.wired.com/gallery/best-apple-3-in-1-wireless-chargers/",
       "confidence": 61,
       "importance": 53,
-      "freshness": 23,
-      "momentum": 29,
+      "freshness": 22,
+      "momentum": 28,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -2052,8 +2052,8 @@
       "url": "https://www.wired.com/story/security-news-this-week-from-hacks-to-bioweapons-claude-misuse-is-now-everywhere/",
       "confidence": 61,
       "importance": 53,
-      "freshness": 23,
-      "momentum": 29,
+      "freshness": 22,
+      "momentum": 28,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -2077,8 +2077,8 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/",
       "confidence": 61,
-      "importance": 53,
-      "freshness": 22,
+      "importance": 52,
+      "freshness": 21,
       "momentum": 28,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -2103,8 +2103,8 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/review/branch-ergonomic-chair-pro-sega-edition/",
       "confidence": 61,
-      "importance": 53,
-      "freshness": 22,
+      "importance": 52,
+      "freshness": 21,
       "momentum": 28,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -2129,8 +2129,8 @@
       "source_type": "secondary",
       "url": "https://www.space.com/astronomy/moon/nasa-ibm-launch-new-ai-model-for-studying-the-moon",
       "confidence": 61,
-      "importance": 53,
-      "freshness": 22,
+      "importance": 52,
+      "freshness": 21,
       "momentum": 28,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -2156,8 +2156,8 @@
       "url": "https://www.wired.com/story/you-dont-have-right-to-safe-drinking-water-trump-appointed-judge-rules/",
       "confidence": 61,
       "importance": 52,
-      "freshness": 21,
-      "momentum": 28,
+      "freshness": 20,
+      "momentum": 27,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -2474,8 +2474,8 @@
       "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
       "confidence": 64,
       "importance": 50,
-      "freshness": 1,
-      "momentum": 17,
+      "freshness": 0,
+      "momentum": 16,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
