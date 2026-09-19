@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "product": "TechPulse",
-  "generated_at": "2026-09-19T16:20:14.532144+00:00",
+  "generated_at": "2026-09-19T18:43:46.652926+00:00",
   "article_count": 100,
   "source_count": 9,
   "source_health": [
@@ -74,7 +74,7 @@
   "articles": [
     {
       "id": "TP-f451f7682a61",
-      "cluster_id": "CL-0133",
+      "cluster_id": "CL-0132",
       "title": "[Virtual Event] Cybersecurity Outlook 2027",
       "summary": "A technology development has been reported. Open the original source for full context.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -88,7 +88,7 @@
       "url": "https://www.darkreading.com/events/virtual-event-cybersecurity-outlook-2027",
       "confidence": 61,
       "importance": 100,
-      "freshness": 3699,
+      "freshness": 3695,
       "momentum": 100,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
@@ -99,8 +99,216 @@
       "rank": 1
     },
     {
+      "id": "TP-b6a7c3b080e8",
+      "cluster_id": "CL-0001",
+      "title": "Google’s Gemini is the latest AI model to hack other companies",
+      "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T17:30:00+00:00",
+      "source": "TechCrunch",
+      "source_type": "secondary",
+      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+      "confidence": 61,
+      "importance": 72,
+      "freshness": 98,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "TechCrunch"
+      ],
+      "corroborating_sources": [],
+      "rank": 2
+    },
+    {
+      "id": "TP-5bcedb98e802",
+      "cluster_id": "CL-0002",
+      "title": "Even mid-sprint to a secret flight, the Navy’s tech chief has a pitch for investors",
+      "summary": "Navy CTO Justin Fanelli talks co-investing alongside VCs instead of funding early research himself, recent buys like a $562 million autonomous refueling deal, and the Navy's updated wish list — from AI to quantum — for where founders should be building next.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T17:00:00+00:00",
+      "source": "TechCrunch",
+      "source_type": "secondary",
+      "url": "https://techcrunch.com/2026/09/19/even-mid-sprint-to-a-secret-flight-the-navys-tech-chief-had-a-pitch-for-investors/",
+      "confidence": 61,
+      "importance": 72,
+      "freshness": 97,
+      "momentum": 69,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "TechCrunch"
+      ],
+      "corroborating_sources": [],
+      "rank": 3
+    },
+    {
+      "id": "TP-2b5297150510",
+      "cluster_id": "CL-0021",
+      "title": "Trump treads further on free speech with new journalist bans",
+      "summary": "On Friday, the president threatened to ban CNN, MS Now, and Politico from the White House. It could have just been another one of his Truth Social fever dreams, but it turns out it's very real. All three publications were turned away from the White House this morning, NPR reports, marking an escalation in the […]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Technology",
+      "subcategory": "Technology",
+      "published_at": "2026-09-19T17:10:21+00:00",
+      "source": "The Verge",
+      "source_type": "secondary",
+      "url": "https://www.theverge.com/policy/997805/trump-cnn-msnow-politico-ban",
+      "confidence": 61,
+      "importance": 72,
+      "freshness": 97,
+      "momentum": 69,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 4
+    },
+    {
+      "id": "TP-14a5620374f9",
+      "cluster_id": "CL-0081",
+      "title": "Anthropic picks Accenture for third-party AI safety evaluations",
+      "summary": "This move represents the first step in the CEO's plan to slow down AI development.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T18:33:46+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2263235/anthropic-picks-accenture-for-third-party-ai-safety-evaluations/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 100,
+      "momentum": 71,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 5
+    },
+    {
+      "id": "TP-2eda274a1fd5",
+      "cluster_id": "CL-0082",
+      "title": "Why buy a streaming device when you have a smart TV?",
+      "summary": "Many modern TVs can stream apps like Netflix and Prime. But you may want to get a streaming device too.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Hardware",
+      "subcategory": "Hardware",
+      "published_at": "2026-09-19T18:30:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2257809/why-buy-streaming-device-when-have-smart-tv/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 100,
+      "momentum": 71,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 6
+    },
+    {
+      "id": "TP-51417b6b3263",
+      "cluster_id": "CL-0083",
+      "title": "You can use DeX on the Galaxy Z Fold 8's inner screen with this trick",
+      "summary": "Samsung's DeX lets you plug in your Samsung Galaxy device into a monitor or TV to create a PC-like experience. Now, it can launch directly on your phone.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Hardware",
+      "subcategory": "Hardware",
+      "published_at": "2026-09-19T18:00:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 99,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 7
+    },
+    {
+      "id": "TP-4ee66dbc2529",
+      "cluster_id": "CL-0139",
+      "title": "Maitreyi Ramakrishnan Will Destroy You at Super Smash Bros.",
+      "summary": "The star of Netflix's Never Have I Ever and Best of the Best opens up about her love of all things Nintendo on the latest episode of Shelf Quest",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T18:00:15+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/maitreyi-ramakrishnan-shelf-quest/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 99,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 8
+    },
+    {
+      "id": "TP-2a92bf96e577",
+      "cluster_id": "CL-0084",
+      "title": "Why is your iPad not charging (and how to fix it)",
+      "summary": "You probably don't think about your iPad charging until it runs into trouble. When plugging it in doesn't work, you'll need to check its port and charger.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Technology",
+      "subcategory": "Technology",
+      "published_at": "2026-09-19T17:30:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2258268/why-ipad-not-charging-fixes/",
+      "confidence": 58,
+      "importance": 70,
+      "freshness": 98,
+      "momentum": 70,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 9
+    },
+    {
       "id": "TP-7456d8000ebf",
-      "cluster_id": "CL-0027",
+      "cluster_id": "CL-0028",
       "title": "OpenAI and Microsoft knew they were starting a ‘doom loop’ for the web",
       "summary": "Recently unsealed court documents in the New York Times' case against OpenAI and Microsoft are pretty damning. The companies' own documentation warned that it was starting a \"doom loop\" that would damage the web, characterized its scraping of data to train its models as the \"largest theft of labor in human history,\" and that it […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -113,20 +321,20 @@
       "source_type": "secondary",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
       "confidence": 61,
-      "importance": 72,
-      "freshness": 100,
-      "momentum": 71,
+      "importance": 71,
+      "freshness": 95,
+      "momentum": 68,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 2
+      "rank": 10
     },
     {
       "id": "TP-f8afd4069f09",
-      "cluster_id": "CL-0110",
+      "cluster_id": "CL-0109",
       "title": "BragJack attacks hijack AI browser agents through malicious extensions",
       "summary": "BragJack, a proof-of-concept attack from Forever Security's Gal Weizman, hijacks the AI assistants in Chrome, Edge, Opera Neon, Perplexity Comet, and Claude in Chrome using one malicious extension. The Prompt Forcing technique earned over $20,000 in bounties and two CVEs. [...]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -139,20 +347,46 @@
       "source_type": "secondary",
       "url": "https://www.bleepingcomputer.com/news/security/bragjack-attacks-hijack-ai-browser-agents-through-malicious-extensions/",
       "confidence": 64,
-      "importance": 74,
-      "freshness": 97,
-      "momentum": 69,
+      "importance": 72,
+      "freshness": 92,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "BleepingComputer"
       ],
       "corroborating_sources": [],
-      "rank": 3
+      "rank": 11
+    },
+    {
+      "id": "TP-5c955a08d16f",
+      "cluster_id": "CL-0085",
+      "title": "California governor wants to implement a kill switch for frontier AI models",
+      "summary": "Newsom's executive order calls for an expert panel to develop new AI safety measures.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T17:00:01+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2263218/california-governor-wants-to-implement-a-kill-switch-for-frontier-ai-models/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 97,
+      "momentum": 69,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 12
     },
     {
       "id": "TP-cfe7f416ead5",
-      "cluster_id": "CL-0111",
+      "cluster_id": "CL-0110",
       "title": "North Korean WaterPlum hackers infected 30,000 devices worldwide",
       "summary": "A joint law enforcement advisory warns that the North Korean hacking group WaterPlum compromised at least 30,000 devices worldwide from December 2025 through July 2026 and transferred more than $10.7 million in stolen cryptocurrency to North Korea. [...]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -165,46 +399,72 @@
       "source_type": "secondary",
       "url": "https://www.bleepingcomputer.com/news/security/north-korean-waterplum-hackers-infected-30-000-devices-worldwide/",
       "confidence": 64,
-      "importance": 74,
-      "freshness": 96,
-      "momentum": 69,
+      "importance": 72,
+      "freshness": 91,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "BleepingComputer"
       ],
       "corroborating_sources": [],
-      "rank": 4
+      "rank": 13
     },
     {
-      "id": "TP-66fb6faf12d4",
-      "cluster_id": "CL-0021",
-      "title": "Gemini went rogue, hacked three companies, and Google hid it",
-      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
+      "id": "TP-7526588ad495",
+      "cluster_id": "CL-0140",
+      "title": "How Zach Cregger Pulled Off Resident Evil’s Most Disgusting Scenes",
+      "summary": "Making the horror movie involved 50 gallons of fake blood and a lot of cleanup",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-19T17:00:17+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/resident-evil-behind-the-scenes/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 97,
+      "momentum": 69,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 14
+    },
+    {
+      "id": "TP-87b02e89e5fe",
+      "cluster_id": "CL-0086",
+      "title": "How to switch between two phones on CarPlay",
+      "summary": "When using Apple's CarPlay, it will automatically connect to the first iPhone it was paired with. Here's how to get it to connect to a different device.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "AI",
       "subcategory": "AI",
-      "published_at": "2026-09-19T15:25:03+00:00",
-      "source": "The Verge",
+      "published_at": "2026-09-19T16:30:00+00:00",
+      "source": "Engadget",
       "source_type": "secondary",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-      "confidence": 61,
-      "importance": 72,
-      "freshness": 98,
-      "momentum": 70,
+      "url": "https://www.engadget.com/2258194/how-to-switch-between-two-phones-apple-carplay/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 96,
+      "momentum": 69,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
-        "The Verge"
+        "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 5
+      "rank": 15
     },
     {
       "id": "TP-c1d5bcc89f74",
-      "cluster_id": "CL-0112",
+      "cluster_id": "CL-0111",
       "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
       "summary": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -217,20 +477,46 @@
       "source_type": "secondary",
       "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
       "confidence": 64,
-      "importance": 73,
-      "freshness": 95,
-      "momentum": 68,
+      "importance": 72,
+      "freshness": 90,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "BleepingComputer"
       ],
       "corroborating_sources": [],
-      "rank": 6
+      "rank": 16
+    },
+    {
+      "id": "TP-a6f228ecdf56",
+      "cluster_id": "CL-0141",
+      "title": "The Sims 4's Next Update Will Make Your Sims Act a Lot More Naturally",
+      "summary": "The Sims Team continues to work towards its goal of improving autonomy and making Sims act more realistically in The Sims 4.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-19T16:50:36+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/the-sims-4-autonomy-gallery-fix-update-september-2026/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 96,
+      "momentum": 69,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 17
     },
     {
       "id": "TP-9973ec65aabe",
-      "cluster_id": "CL-0001",
+      "cluster_id": "CL-0003",
       "title": "Petlibro’s new AI-powered feeder is a game changer for multi-cat homes",
       "summary": "Petlibro's new Granary 2 smart feeders use a built-in scale and (on pricier models) an AI camera to track exactly how much your cat is eating and when — though the fanciest health-monitoring features will cost you an extra subscription.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -243,20 +529,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
       "confidence": 61,
-      "importance": 72,
-      "freshness": 97,
-      "momentum": 69,
+      "importance": 70,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 7
+      "rank": 18
     },
     {
       "id": "TP-fe6a92ce8180",
-      "cluster_id": "CL-0002",
+      "cluster_id": "CL-0004",
       "title": "AI safety conversations have gotten unbelievable",
       "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -269,46 +555,46 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
       "confidence": 61,
-      "importance": 72,
-      "freshness": 97,
-      "momentum": 69,
+      "importance": 70,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 8
+      "rank": 19
     },
     {
-      "id": "TP-a6936d636f1e",
-      "cluster_id": "CL-0141",
-      "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
-      "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing",
+      "id": "TP-66fb6faf12d4",
+      "cluster_id": "CL-0022",
+      "title": "Gemini went rogue, hacked three companies, and Google hid it",
+      "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which was also involved in similar incidents involving Meta and OpenAI. According to WSJ, Google didn't […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-19T16:16:58+00:00",
-      "source": "Polygon",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T15:25:03+00:00",
+      "source": "The Verge",
       "source_type": "secondary",
-      "url": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
-      "confidence": 58,
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+      "confidence": 61,
       "importance": 70,
-      "freshness": 100,
-      "momentum": 71,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
-        "Polygon"
+        "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 9
+      "rank": 20
     },
     {
       "id": "TP-f63e9eecbaf8",
-      "cluster_id": "CL-0081",
+      "cluster_id": "CL-0087",
       "title": "Here's why some monitors have two USB ports (and the best ways to use them)",
       "summary": "These ports are often part of a built-in USB hub, letting you keep desk accessories connected to the monitor instead of occupying ports on your computer.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -321,20 +607,46 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2258096/why-monitor-two-usb-ports-explained/",
       "confidence": 58,
-      "importance": 70,
-      "freshness": 99,
-      "momentum": 70,
+      "importance": 69,
+      "freshness": 95,
+      "momentum": 68,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 10
+      "rank": 21
+    },
+    {
+      "id": "TP-a6936d636f1e",
+      "cluster_id": "CL-0142",
+      "title": "Star Wars Zero Company Unofficially Gets A Real Endgame",
+      "summary": "The Aftermath mod for Star Wars Zero Company gives the strategy game the endgame it's sorely missing",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-19T16:16:58+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/star-wars-zero-company-aftermath-dlc-mod-endgame/",
+      "confidence": 58,
+      "importance": 69,
+      "freshness": 95,
+      "momentum": 68,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 22
     },
     {
       "id": "TP-29f2459602fa",
-      "cluster_id": "CL-0142",
+      "cluster_id": "CL-0143",
       "title": "Nintendo Just Demolished Everyone’s Free Time",
       "summary": "Switch 2 exclusive Fire Emblem: Fortune's Weave is 100-200 hours long. Are games getting too big?",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -347,46 +659,20 @@
       "source_type": "secondary",
       "url": "https://www.polygon.com/switchboard-fire-emblem-fortunes-weave-diablo-4/",
       "confidence": 58,
-      "importance": 70,
-      "freshness": 99,
-      "momentum": 70,
+      "importance": 69,
+      "freshness": 95,
+      "momentum": 68,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 11
-    },
-    {
-      "id": "TP-738f349fa06d",
-      "cluster_id": "CL-0082",
-      "title": "Which tech upgrades are worth making to your car's old sound system?",
-      "summary": "You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Technology",
-      "subcategory": "Technology",
-      "published_at": "2026-09-19T15:30:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/",
-      "confidence": 58,
-      "importance": 70,
-      "freshness": 98,
-      "momentum": 70,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 12
+      "rank": 23
     },
     {
       "id": "TP-e9d1d908f307",
-      "cluster_id": "CL-0003",
+      "cluster_id": "CL-0005",
       "title": "Prices go up in 7 days. Get your Disrupt ticket now.",
       "summary": "Current ticket pricing ends Sept. 25 at 11:59 p.m. PT. Join 10,000+ founders, investors and tech leaders at Disrupt and save up to $200 on your ticket until then..",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -399,20 +685,46 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/19/prices-go-up-in-7-days-get-your-disrupt-ticket-now/",
       "confidence": 61,
-      "importance": 71,
-      "freshness": 95,
-      "momentum": 68,
+      "importance": 70,
+      "freshness": 91,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 13
+      "rank": 24
+    },
+    {
+      "id": "TP-738f349fa06d",
+      "cluster_id": "CL-0088",
+      "title": "Which tech upgrades are worth making to your car's old sound system?",
+      "summary": "You can upgrade an older car with modern tech to enable Bluetooth, CarPlay and more. Your options depend on your car and what you need most.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Technology",
+      "subcategory": "Technology",
+      "published_at": "2026-09-19T15:30:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2257900/tech-upgrades-worth-making-car-old-sound-system/",
+      "confidence": 58,
+      "importance": 68,
+      "freshness": 94,
+      "momentum": 68,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 25
     },
     {
       "id": "TP-a5fc7769dbe2",
-      "cluster_id": "CL-0083",
+      "cluster_id": "CL-0089",
       "title": "How to block and unblock a number on your Android phone",
       "summary": "Unwanted calls and texts are a part of modern-day life, but you can block and unblock numbers that are repeat offenders.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -425,46 +737,20 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2257824/how-to-block-unblock-number-android-phone/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 97,
-      "momentum": 69,
+      "importance": 68,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 14
-    },
-    {
-      "id": "TP-f3c57bf9f56a",
-      "cluster_id": "CL-0113",
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T11:38:20+00:00",
-      "source": "BleepingComputer",
-      "source_type": "secondary",
-      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "confidence": 64,
-      "importance": 72,
-      "freshness": 91,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "BleepingComputer"
-      ],
-      "corroborating_sources": [],
-      "rank": 15
+      "rank": 26
     },
     {
       "id": "TP-773b5b503c2a",
-      "cluster_id": "CL-0143",
+      "cluster_id": "CL-0144",
       "title": "Xbox May Finally Get Its Own Version Of PlayStation Platinum Trophies",
       "summary": "Xbox may finally be getting its own version of the Platinum Trophy, according to an Alpha Skip-Ahead Xbox Insider",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -477,16 +763,94 @@
       "source_type": "secondary",
       "url": "https://www.polygon.com/xbox-platinum-trophy-equivalent-mythic-achievement/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 97,
-      "momentum": 69,
+      "importance": 68,
+      "freshness": 93,
+      "momentum": 67,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 16
+      "rank": 27
+    },
+    {
+      "id": "TP-17c3769d3608",
+      "cluster_id": "CL-0006",
+      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
+      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T13:00:00+00:00",
+      "source": "TechCrunch",
+      "source_type": "secondary",
+      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
+      "confidence": 61,
+      "importance": 70,
+      "freshness": 89,
+      "momentum": 65,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "TechCrunch"
+      ],
+      "corroborating_sources": [],
+      "rank": 28
+    },
+    {
+      "id": "TP-ee9da25f4efa",
+      "cluster_id": "CL-0090",
+      "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
+      "summary": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T14:30:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
+      "confidence": 58,
+      "importance": 68,
+      "freshness": 92,
+      "momentum": 67,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 29
+    },
+    {
+      "id": "TP-f3c57bf9f56a",
+      "cluster_id": "CL-0112",
+      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
+      "summary": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T11:38:20+00:00",
+      "source": "BleepingComputer",
+      "source_type": "secondary",
+      "url": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
+      "confidence": 64,
+      "importance": 71,
+      "freshness": 86,
+      "momentum": 63,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "BleepingComputer"
+      ],
+      "corroborating_sources": [],
+      "rank": 30
     },
     {
       "id": "TP-a24483b59fde",
@@ -503,98 +867,20 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/",
       "confidence": 64,
-      "importance": 72,
-      "freshness": 90,
-      "momentum": 66,
+      "importance": 71,
+      "freshness": 85,
+      "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 17
-    },
-    {
-      "id": "TP-ee9da25f4efa",
-      "cluster_id": "CL-0084",
-      "title": "This Game Boy inspired hi-res music player raised over $500,000 on Kickstarter",
-      "summary": "The AP30 Music Boy is just the latest example of \"dumb\" tech's resurgence.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T14:30:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2257820/game-boy-inspired-music-player-raises-500000-kickstarter/",
-      "confidence": 58,
-      "importance": 69,
-      "freshness": 96,
-      "momentum": 69,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 18
-    },
-    {
-      "id": "TP-ab9df801b018",
-      "cluster_id": "CL-0144",
-      "title": "Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel",
-      "summary": "Don't expect James Gunn to be involved, but a live-action Lollipop Chainsaw movie is in the works via Dragami Games",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T14:22:30+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/lollipop-chainsaw-movie/",
-      "confidence": 58,
-      "importance": 69,
-      "freshness": 96,
-      "momentum": 69,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 19
-    },
-    {
-      "id": "TP-17c3769d3608",
-      "cluster_id": "CL-0004",
-      "title": "Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking",
-      "summary": "Vals AI is hoping to make AI benchmarking a more neutral and trustworthy resource in a world increasingly inundated by AI models.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T13:00:00+00:00",
-      "source": "TechCrunch",
-      "source_type": "secondary",
-      "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking/",
-      "confidence": 61,
-      "importance": 70,
-      "freshness": 93,
-      "momentum": 67,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "TechCrunch"
-      ],
-      "corroborating_sources": [],
-      "rank": 20
+      "rank": 31
     },
     {
       "id": "TP-9d9bba571415",
-      "cluster_id": "CL-0085",
+      "cluster_id": "CL-0091",
       "title": "How to factory reset your Steam Deck",
       "summary": "There are a few reasons you might want to factory reset your device, and doing so is easy.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -607,20 +893,46 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2257819/how-to-factory-reset-steam-deck/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 95,
-      "momentum": 68,
+      "importance": 68,
+      "freshness": 91,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 21
+      "rank": 32
+    },
+    {
+      "id": "TP-ab9df801b018",
+      "cluster_id": "CL-0145",
+      "title": "Lollipop Chainsaw Is Getting An Official Live-Action Movie Prequel",
+      "summary": "Don't expect James Gunn to be involved, but a live-action Lollipop Chainsaw movie is in the works via Dragami Games",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T14:22:30+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/lollipop-chainsaw-movie/",
+      "confidence": 58,
+      "importance": 68,
+      "freshness": 91,
+      "momentum": 66,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 33
     },
     {
       "id": "TP-6e0cf077fba7",
-      "cluster_id": "CL-0145",
+      "cluster_id": "CL-0146",
       "title": "Paramount's New High Fantasy Epic is Already the Streaming Sleeper Hit of 2026",
       "summary": "How Golden Axe turned a forgotten 'weird' old arcade game into streaming gold and season 2 plans",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -633,20 +945,20 @@
       "source_type": "secondary",
       "url": "https://www.polygon.com/paramount-golden-axe-showrunner-interview-season-2/",
       "confidence": 58,
-      "importance": 69,
-      "freshness": 95,
-      "momentum": 68,
+      "importance": 68,
+      "freshness": 91,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 22
+      "rank": 34
     },
     {
       "id": "TP-99234b932086",
-      "cluster_id": "CL-0086",
+      "cluster_id": "CL-0092",
       "title": "The best way to check your PC for malware",
       "summary": "If your PC is slowing down or not behaving as usual, it's worth running through these tips to see if you have malware.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -660,67 +972,15 @@
       "url": "https://www.engadget.com/2257817/best-way-check-pc-malware/",
       "confidence": 58,
       "importance": 68,
-      "freshness": 94,
-      "momentum": 68,
+      "freshness": 90,
+      "momentum": 66,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 23
-    },
-    {
-      "id": "TP-18b467f5baf4",
-      "cluster_id": "CL-0087",
-      "title": "Google Gemini also escaped its testing environment and hacked three companies",
-      "summary": "Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T13:05:53+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 94,
-      "momentum": 68,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 24
-    },
-    {
-      "id": "TP-eb15453139d1",
-      "cluster_id": "CL-0146",
-      "title": "Marvel's Wolverine Update Tones Down Its Most Controversial Feature",
-      "summary": "The latest update for PS5 exclusive Marvel's Wolverine just made its much-derided scent trails a little less garish",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-19T13:22:42+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/wolverine-scent-trails-update/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 94,
-      "momentum": 68,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 25
+      "rank": 35
     },
     {
       "id": "TP-274168859b9c",
@@ -737,20 +997,46 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
       "confidence": 64,
-      "importance": 71,
-      "freshness": 87,
-      "momentum": 64,
+      "importance": 70,
+      "freshness": 83,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 26
+      "rank": 36
+    },
+    {
+      "id": "TP-18b467f5baf4",
+      "cluster_id": "CL-0093",
+      "title": "Google Gemini also escaped its testing environment and hacked three companies",
+      "summary": "Google's AI model hacked real companies during testing due to a misconfiguration by its testing partner, as well.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T13:05:53+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2263198/google-gemini-escaped-testing-environment-hacked-three-companies/",
+      "confidence": 58,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 37
     },
     {
       "id": "TP-46a3718f4759",
-      "cluster_id": "CL-0088",
+      "cluster_id": "CL-0094",
       "title": "4 cool projects you can do with Home Assistant on Raspberry Pi",
       "summary": "Smart home automation is more versatile than ever with Home Assistant and a Raspberry Pi. Check out what they can do.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -763,20 +1049,46 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2257816/cool-projects-home-assistant-raspberry-pi/",
       "confidence": 58,
-      "importance": 68,
-      "freshness": 93,
-      "momentum": 67,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 27
+      "rank": 38
+    },
+    {
+      "id": "TP-eb15453139d1",
+      "cluster_id": "CL-0147",
+      "title": "Marvel's Wolverine Update Tones Down Its Most Controversial Feature",
+      "summary": "The latest update for PS5 exclusive Marvel's Wolverine just made its much-derided scent trails a little less garish",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-19T13:22:42+00:00",
+      "source": "Polygon",
+      "source_type": "secondary",
+      "url": "https://www.polygon.com/wolverine-scent-trails-update/",
+      "confidence": 58,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Polygon"
+      ],
+      "corroborating_sources": [],
+      "rank": 39
     },
     {
       "id": "TP-a7dd321fdc2d",
-      "cluster_id": "CL-0147",
+      "cluster_id": "CL-0148",
       "title": "Forget Your 100-Hour RPGs, Action Games Are Having a Moment",
       "summary": "Some of 2026's most high-profile games are ditching modern design trends to take us back to the era of compact action games.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -789,16 +1101,16 @@
       "source_type": "secondary",
       "url": "https://www.polygon.com/action-games-wolverine-pragmata-2026/",
       "confidence": 58,
-      "importance": 68,
-      "freshness": 93,
-      "momentum": 67,
+      "importance": 67,
+      "freshness": 89,
+      "momentum": 65,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Polygon"
       ],
       "corroborating_sources": [],
-      "rank": 28
+      "rank": 40
     },
     {
       "id": "TP-0e6162939d74",
@@ -815,20 +1127,20 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/kernel-panic-ai-vulnerability-explosion/",
       "confidence": 61,
-      "importance": 70,
-      "freshness": 89,
-      "momentum": 65,
+      "importance": 68,
+      "freshness": 85,
+      "momentum": 63,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 29
+      "rank": 41
     },
     {
       "id": "TP-cea331ae0c3a",
-      "cluster_id": "CL-0089",
+      "cluster_id": "CL-0095",
       "title": "The pros and cons of using noise cancelling headphones",
       "summary": "Active noise cancellation makes headphones much better, but you should know how it works and what the drawbacks are as well.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -841,20 +1153,20 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2257815/noise-cancelling-headphones-pros-and-cons/",
       "confidence": 58,
-      "importance": 68,
-      "freshness": 92,
-      "momentum": 67,
+      "importance": 67,
+      "freshness": 88,
+      "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 30
+      "rank": 42
     },
     {
       "id": "TP-a22d9d285f04",
-      "cluster_id": "CL-0090",
+      "cluster_id": "CL-0096",
       "title": "10 Of The Coolest Japanese Gadgets You'll Almost Never See In The US",
       "summary": "Sure, we have plenty of neat products in the United States, but a look at these 10 gadgets really suggest Japan is in a consumer tech league of its own.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -867,20 +1179,20 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2262963/cool-japanese-gadgets-not-typically-found-in-united-states/",
       "confidence": 58,
-      "importance": 68,
-      "freshness": 92,
-      "momentum": 67,
+      "importance": 67,
+      "freshness": 87,
+      "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 31
+      "rank": 43
     },
     {
       "id": "TP-9f8df944d9c8",
-      "cluster_id": "CL-0091",
+      "cluster_id": "CL-0097",
       "title": "What causes a stuck pixel on your laptop and can it be fixed?",
       "summary": "Stuck pixels don't have to be a death sentence for your laptop, as there are several options that can bring them back to life.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -893,68 +1205,16 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2257814/laptop-stuck-pixel-causes-fixes/",
       "confidence": 58,
-      "importance": 68,
-      "freshness": 91,
-      "momentum": 66,
+      "importance": 67,
+      "freshness": 87,
+      "momentum": 64,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 32
-    },
-    {
-      "id": "TP-3c8bc8e3003f",
-      "cluster_id": "CL-0148",
-      "title": "Batman Producers Reveal Warner Bros. Told Them to Burn a Criminal's Face Off",
-      "summary": "\"Everything was pushed to the extreme\"",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-19T12:00:16+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/batman-knightfall-producers-interview/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 91,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 33
-    },
-    {
-      "id": "TP-d1e143181376",
-      "cluster_id": "CL-0149",
-      "title": "Crunchyroll’s Detective Series With a 93% RT Score Is About to Have Its ‘Biggest Year Yet’",
-      "summary": "The Apothecary Diaries producer Takao Iwata discusses Season 3, Maomao and Jinshi’s evolving relationship, and the series’ new canonical movie.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-19T11:38:14+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/apothecary-diaries-season-3-movie-producer-interview/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 91,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 34
+      "rank": 44
     },
     {
       "id": "TP-6a5aaaf0c145",
@@ -971,16 +1231,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/productivity-app-tasks-txt-is-just-a-text-document/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 88,
-      "momentum": 64,
+      "importance": 68,
+      "freshness": 84,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 35
+      "rank": 45
     },
     {
       "id": "TP-b00e5960c84e",
@@ -997,42 +1257,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/review/samsung-galaxy-watch9/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 88,
-      "momentum": 64,
+      "importance": 68,
+      "freshness": 83,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 36
-    },
-    {
-      "id": "TP-a02f08c8ca72",
-      "cluster_id": "CL-0092",
-      "title": "John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out",
-      "summary": "Our latest indie gaming roundup features a John Wick-style character who works in a video store.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-19T11:30:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/",
-      "confidence": 58,
-      "importance": 68,
-      "freshness": 90,
-      "momentum": 66,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 37
+      "rank": 46
     },
     {
       "id": "TP-1b241b8e7b5d",
@@ -1049,16 +1283,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/best-gifts-for-bird-lovers-2026/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 87,
-      "momentum": 64,
+      "importance": 68,
+      "freshness": 83,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 38
+      "rank": 47
     },
     {
       "id": "TP-111832ce11a9",
@@ -1075,16 +1309,42 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/mathematicians-cant-quit-ai/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 87,
-      "momentum": 64,
+      "importance": 68,
+      "freshness": 83,
+      "momentum": 62,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 39
+      "rank": 48
+    },
+    {
+      "id": "TP-a02f08c8ca72",
+      "cluster_id": "CL-0098",
+      "title": "John Wick as a DVD store operator, a roguelike take on Armored Core and other new indie games worth checking out",
+      "summary": "Our latest indie gaming roundup features a John Wick-style character who works in a video store.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Gaming",
+      "subcategory": "Gaming",
+      "published_at": "2026-09-19T11:30:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2262905/john-wick-as-a-dvd-store-operator-and-other-new-indie-games-worth-checking-out/",
+      "confidence": 58,
+      "importance": 66,
+      "freshness": 86,
+      "momentum": 63,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 49
     },
     {
       "id": "TP-d79c3a727840",
@@ -1101,16 +1361,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/amazon-prime-day-early-deals-09-29-2026/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 87,
-      "momentum": 64,
+      "importance": 68,
+      "freshness": 82,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 40
+      "rank": 50
     },
     {
       "id": "TP-70c605a73f78",
@@ -1127,16 +1387,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/residents-harmed-by-oil-drilling-may-soon-receive-reparations-under-new-california-law/",
       "confidence": 61,
-      "importance": 69,
-      "freshness": 86,
-      "momentum": 63,
+      "importance": 68,
+      "freshness": 82,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 41
+      "rank": 51
     },
     {
       "id": "TP-fed7de72616f",
@@ -1154,15 +1414,15 @@
       "url": "https://www.wired.com/gallery/best-vpn/",
       "confidence": 61,
       "importance": 68,
-      "freshness": 85,
-      "momentum": 63,
+      "freshness": 81,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 42
+      "rank": 52
     },
     {
       "id": "TP-b0725c2c8151",
@@ -1180,41 +1440,15 @@
       "url": "https://www.wired.com/story/join-the-wired-world-fair-in-miami-on-november-4/",
       "confidence": 61,
       "importance": 68,
-      "freshness": 85,
-      "momentum": 63,
+      "freshness": 81,
+      "momentum": 61,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 43
-    },
-    {
-      "id": "TP-328fd0deac92",
-      "cluster_id": "CL-0150",
-      "title": "Every Star Wars Zero Company Hero, Ranked From Worst to Best",
-      "summary": "Star Wars Zero Company, the new tactical game set in the Clone Wars era, features a unique cast of heroes. Let's rank them.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-19T09:00:14+00:00",
-      "source": "Polygon",
-      "source_type": "secondary",
-      "url": "https://www.polygon.com/star-wars-zero-company-characters-ranked/",
-      "confidence": 58,
-      "importance": 66,
-      "freshness": 85,
-      "momentum": 63,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Polygon"
-      ],
-      "corroborating_sources": [],
-      "rank": 44
+      "rank": 53
     },
     {
       "id": "TP-6f168f31916e",
@@ -1231,16 +1465,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
       "confidence": 61,
-      "importance": 67,
-      "freshness": 79,
-      "momentum": 59,
+      "importance": 66,
+      "freshness": 75,
+      "momentum": 57,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 45
+      "rank": 54
     },
     {
       "id": "TP-a719a956ac24",
@@ -1258,15 +1492,15 @@
       "url": "https://www.wired.com/story/paramount-plus-coupon-code/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 46
+      "rank": 55
     },
     {
       "id": "TP-56752307a5a2",
@@ -1284,15 +1518,15 @@
       "url": "https://www.wired.com/story/bh-photo-coupon/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 47
+      "rank": 56
     },
     {
       "id": "TP-4bae664747b3",
@@ -1310,15 +1544,15 @@
       "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 48
+      "rank": 57
     },
     {
       "id": "TP-28a412df0787",
@@ -1336,15 +1570,15 @@
       "url": "https://www.wired.com/story/newegg-promo-code/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 49
+      "rank": 58
     },
     {
       "id": "TP-802cc9fd09aa",
@@ -1362,15 +1596,15 @@
       "url": "https://www.wired.com/story/whoop-promo-code/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 50
+      "rank": 59
     },
     {
       "id": "TP-648a2d34cb34",
@@ -1388,15 +1622,15 @@
       "url": "https://www.wired.com/story/ebay-coupon-code/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 51
+      "rank": 60
     },
     {
       "id": "TP-43218cfe4603",
@@ -1414,15 +1648,15 @@
       "url": "https://www.wired.com/story/samsung-promo-codes/",
       "confidence": 61,
       "importance": 66,
-      "freshness": 77,
-      "momentum": 58,
+      "freshness": 73,
+      "momentum": 56,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 52
+      "rank": 61
     },
     {
       "id": "TP-c0ff045573f4",
@@ -1439,20 +1673,20 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/story/flock-is-offering-voluntary-buyouts-to-employees/",
       "confidence": 61,
-      "importance": 65,
-      "freshness": 72,
-      "momentum": 56,
+      "importance": 64,
+      "freshness": 67,
+      "momentum": 53,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 53
+      "rank": 62
     },
     {
       "id": "TP-a193c15e98fb",
-      "cluster_id": "CL-0005",
+      "cluster_id": "CL-0007",
       "title": "India forces caller-ID apps to feed spam reports to telcos",
       "summary": "Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1466,19 +1700,19 @@
       "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
       "confidence": 61,
       "importance": 64,
-      "freshness": 69,
-      "momentum": 54,
+      "freshness": 65,
+      "momentum": 52,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 54
+      "rank": 63
     },
     {
       "id": "TP-f0cf279d8dbb",
-      "cluster_id": "CL-0006",
+      "cluster_id": "CL-0008",
       "title": "Tilly Norwood’s press tour is going about as well as you’d expect for an AI",
       "summary": "In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1491,20 +1725,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/",
       "confidence": 61,
-      "importance": 64,
-      "freshness": 68,
-      "momentum": 53,
+      "importance": 63,
+      "freshness": 63,
+      "momentum": 51,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 55
+      "rank": 64
     },
     {
       "id": "TP-68172c845ac1",
-      "cluster_id": "CL-0025",
+      "cluster_id": "CL-0026",
       "title": "It’s not just LG. Every TV company is spying on you",
       "summary": "The TV world has been a pot of controversy thanks to a two-hour-and-15-minute video from Gamers Nexus claiming LG TVs are nefariously spying on everything you do. They can record and store audio even when they seem to be off, track everything you watch, and could even be hacked remotely and turned into covert surveillance […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1517,20 +1751,20 @@
       "source_type": "secondary",
       "url": "https://www.theverge.com/tech/997682/every-tv-company-is-spying",
       "confidence": 61,
-      "importance": 64,
-      "freshness": 67,
-      "momentum": 53,
+      "importance": 63,
+      "freshness": 62,
+      "momentum": 50,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 56
+      "rank": 65
     },
     {
       "id": "TP-23d6e2a4a2bf",
-      "cluster_id": "CL-0007",
+      "cluster_id": "CL-0009",
       "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
       "summary": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1543,20 +1777,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
       "confidence": 61,
-      "importance": 64,
-      "freshness": 66,
-      "momentum": 52,
+      "importance": 62,
+      "freshness": 61,
+      "momentum": 50,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 57
+      "rank": 66
     },
     {
       "id": "TP-7eae20442af3",
-      "cluster_id": "CL-0008",
+      "cluster_id": "CL-0010",
       "title": "Anthropic is operating a lab that conducts biology experiments",
       "summary": "AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1569,20 +1803,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/",
       "confidence": 61,
-      "importance": 64,
-      "freshness": 66,
-      "momentum": 52,
+      "importance": 62,
+      "freshness": 61,
+      "momentum": 50,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 58
+      "rank": 67
     },
     {
       "id": "TP-450940319d1d",
-      "cluster_id": "CL-0009",
+      "cluster_id": "CL-0011",
       "title": "AI hallucination nearly triggers US military operation",
       "summary": "“It’s important for service members to understand the uncertainty inherent to LLMs,\" a GovAI research scholar warns.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1595,20 +1829,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/",
       "confidence": 61,
-      "importance": 64,
-      "freshness": 66,
-      "momentum": 52,
+      "importance": 62,
+      "freshness": 61,
+      "momentum": 50,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 59
+      "rank": 68
     },
     {
       "id": "TP-a864cdf7e10a",
-      "cluster_id": "CL-0026",
+      "cluster_id": "CL-0027",
       "title": "The AI regulation smackdown isn’t over",
       "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1621,20 +1855,20 @@
       "source_type": "secondary",
       "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
       "confidence": 61,
-      "importance": 63,
-      "freshness": 64,
-      "momentum": 51,
+      "importance": 62,
+      "freshness": 59,
+      "momentum": 48,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 60
+      "rank": 69
     },
     {
       "id": "TP-8503b185b661",
-      "cluster_id": "CL-0010",
+      "cluster_id": "CL-0012",
       "title": "Anthropic’s first embedded evaluator is … Accenture?",
       "summary": "Accenture is about to take on its most high-risk consulting engagement ever.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1647,16 +1881,42 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
       "confidence": 61,
-      "importance": 63,
-      "freshness": 63,
-      "momentum": 51,
+      "importance": 62,
+      "freshness": 58,
+      "momentum": 48,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 61
+      "rank": 70
+    },
+    {
+      "id": "TP-8877bd93041e",
+      "cluster_id": "CL-0099",
+      "title": "How Focus mode has changed in iOS 27",
+      "summary": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Technology",
+      "subcategory": "Technology",
+      "published_at": "2026-09-18T23:00:00+00:00",
+      "source": "Engadget",
+      "source_type": "secondary",
+      "url": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
+      "confidence": 58,
+      "importance": 60,
+      "freshness": 61,
+      "momentum": 50,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Engadget"
+      ],
+      "corroborating_sources": [],
+      "rank": 71
     },
     {
       "id": "TP-6b844761c122",
@@ -1673,20 +1933,20 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/",
       "confidence": 64,
-      "importance": 64,
-      "freshness": 60,
-      "momentum": 49,
+      "importance": 63,
+      "freshness": 55,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 62
+      "rank": 72
     },
     {
       "id": "TP-0c66b98edea6",
-      "cluster_id": "CL-0022",
+      "cluster_id": "CL-0023",
       "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
       "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their collaboration with Hatsune Miku (which even made its way into […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1699,46 +1959,20 @@
       "source_type": "secondary",
       "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
       "confidence": 61,
-      "importance": 63,
-      "freshness": 62,
-      "momentum": 50,
+      "importance": 62,
+      "freshness": 57,
+      "momentum": 47,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "The Verge"
       ],
       "corroborating_sources": [],
-      "rank": 63
-    },
-    {
-      "id": "TP-8877bd93041e",
-      "cluster_id": "CL-0093",
-      "title": "How Focus mode has changed in iOS 27",
-      "summary": "iOS 27 brings tons of cool upgrades to your iPhone. Don't miss the interesting-yet-subtle changes to Focus.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Technology",
-      "subcategory": "Technology",
-      "published_at": "2026-09-18T23:00:00+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2257610/how-focus-mode-changed-ios-27/",
-      "confidence": 58,
-      "importance": 61,
-      "freshness": 65,
-      "momentum": 52,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 64
+      "rank": 73
     },
     {
       "id": "TP-aecce48030dc",
-      "cluster_id": "CL-0094",
+      "cluster_id": "CL-0100",
       "title": "AI almost led the US military to start a war with China, report says",
       "summary": "CNN's sources claim the US nearly attacked a Chinese ship it believed was carrying nuclear weapon components.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1751,16 +1985,16 @@
       "source_type": "secondary",
       "url": "https://www.engadget.com/2263043/ai-almost-led-the-us-military-to-attack-china-report-says/",
       "confidence": 58,
-      "importance": 61,
-      "freshness": 65,
-      "momentum": 52,
+      "importance": 60,
+      "freshness": 60,
+      "momentum": 49,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Engadget"
       ],
       "corroborating_sources": [],
-      "rank": 65
+      "rank": 74
     },
     {
       "id": "TP-8a86701f25e4",
@@ -1777,20 +2011,20 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/",
       "confidence": 64,
-      "importance": 64,
-      "freshness": 58,
-      "momentum": 48,
+      "importance": 63,
+      "freshness": 53,
+      "momentum": 45,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 66
+      "rank": 75
     },
     {
       "id": "TP-2d3bc5eb22e1",
-      "cluster_id": "CL-0011",
+      "cluster_id": "CL-0013",
       "title": "Automattic names interim CFO after exec departures",
       "summary": "Jeremy Klaperman, the CFO of the company's WordPress VIP Enterprise business unit, will act as CFO for the time being.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1803,20 +2037,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/automattic-names-interim-cfo-after-exec-departures/",
       "confidence": 61,
-      "importance": 62,
-      "freshness": 60,
-      "momentum": 49,
+      "importance": 61,
+      "freshness": 55,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 67
+      "rank": 76
     },
     {
       "id": "TP-651f21e73075",
-      "cluster_id": "CL-0012",
+      "cluster_id": "CL-0014",
       "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation",
       "summary": "Angle Health has grown to 5,000 customers and become profitable by helping small businesses get \"level-funded\" health insurance.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1829,20 +2063,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/y-combinator-insurance-tech-alum-angle-health-hits-2-7b-valuation/",
       "confidence": 61,
-      "importance": 62,
-      "freshness": 60,
-      "momentum": 49,
+      "importance": 61,
+      "freshness": 55,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 68
+      "rank": 77
     },
     {
       "id": "TP-6ce3a720aa6e",
-      "cluster_id": "CL-0013",
+      "cluster_id": "CL-0015",
       "title": "World model companies are keeping a lot of secrets",
       "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1855,20 +2089,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
       "confidence": 61,
-      "importance": 62,
-      "freshness": 60,
-      "momentum": 49,
+      "importance": 61,
+      "freshness": 55,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 69
+      "rank": 78
     },
     {
       "id": "TP-db8364d96846",
-      "cluster_id": "CL-0126",
+      "cluster_id": "CL-0125",
       "title": "Vectra AI Launches Ascent to Help Address New Era of AI-Driven Attacks",
       "summary": "The new program expands Vectra AI's partner strategy as increasingly complex security environments and the growing use of AI create demand for broader AI expertise, services, and security outcomes.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -1881,16 +2115,42 @@
       "source_type": "secondary",
       "url": "https://www.darkreading.com/cyberattacks-data-breaches/vectra-ai-launches-ascent-new-era-ai-driven-attacks",
       "confidence": 61,
-      "importance": 62,
-      "freshness": 60,
-      "momentum": 49,
+      "importance": 61,
+      "freshness": 55,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Dark Reading"
       ],
       "corroborating_sources": [],
-      "rank": 70
+      "rank": 79
+    },
+    {
+      "id": "TP-373f3d22cfc0",
+      "cluster_id": "CL-0025",
+      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T19:30:34+00:00",
+      "source": "The Verge",
+      "source_type": "secondary",
+      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+      "confidence": 61,
+      "importance": 61,
+      "freshness": 54,
+      "momentum": 46,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 80
     },
     {
       "id": "TP-570f3ae65c13",
@@ -1907,198 +2167,16 @@
       "source_type": "secondary",
       "url": "https://www.wired.com/review/apple-watch-ultra-4/",
       "confidence": 61,
-      "importance": 62,
-      "freshness": 59,
-      "momentum": 48,
+      "importance": 61,
+      "freshness": 54,
+      "momentum": 46,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "WIRED"
       ],
       "corroborating_sources": [],
-      "rank": 71
-    },
-    {
-      "id": "TP-7617cdd5b498",
-      "cluster_id": "CL-0095",
-      "title": "Sony Music and UMG say Suno's new models still violates their copyright",
-      "summary": "In a new lawsuit, the labels argue Suno found a roundabout way to train its v6 models on unlicensed music.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T21:06:27+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262978/sony-music-and-umg-say-sunos-new-models-still-violates-their-copyright/",
-      "confidence": 58,
-      "importance": 60,
-      "freshness": 62,
-      "momentum": 50,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 72
-    },
-    {
-      "id": "TP-373f3d22cfc0",
-      "cluster_id": "CL-0024",
-      "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
-      "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T19:30:34+00:00",
-      "source": "The Verge",
-      "source_type": "secondary",
-      "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 58,
-      "momentum": 48,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "The Verge"
-      ],
-      "corroborating_sources": [],
-      "rank": 73
-    },
-    {
-      "id": "TP-802486953da2",
-      "cluster_id": "CL-0028",
-      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T19:09:19+00:00",
-      "source": "The Verge",
-      "source_type": "secondary",
-      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 58,
-      "momentum": 48,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "The Verge"
-      ],
-      "corroborating_sources": [],
-      "rank": 74
-    },
-    {
-      "id": "TP-0f3cb72b85c7",
-      "cluster_id": "CL-0070",
-      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
-      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T19:21:09+00:00",
-      "source": "WIRED",
-      "source_type": "secondary",
-      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 58,
-      "momentum": 48,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "WIRED"
-      ],
-      "corroborating_sources": [],
-      "rank": 75
-    },
-    {
-      "id": "TP-fcd5f7c85dfc",
-      "cluster_id": "CL-0096",
-      "title": "Clicks Communicator shipments begin in December",
-      "summary": "The BlackBerry-like phone also got a spec bump and an impending price hike.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Technology",
-      "subcategory": "Technology",
-      "published_at": "2026-09-18T20:53:52+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262962/clicks-communicator-shipments-begin-in-december/",
-      "confidence": 58,
-      "importance": 60,
-      "freshness": 61,
-      "momentum": 50,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 76
-    },
-    {
-      "id": "TP-c30f05e681c9",
-      "cluster_id": "CL-0127",
-      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
-      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Cybersecurity",
-      "subcategory": "Cybersecurity",
-      "published_at": "2026-09-18T19:26:47+00:00",
-      "source": "Dark Reading",
-      "source_type": "secondary",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 58,
-      "momentum": 48,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Dark Reading"
-      ],
-      "corroborating_sources": [],
-      "rank": 77
-    },
-    {
-      "id": "TP-5ef16b943470",
-      "cluster_id": "CL-0128",
-      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
-      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T19:23:48+00:00",
-      "source": "Dark Reading",
-      "source_type": "secondary",
-      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 58,
-      "momentum": 48,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Dark Reading"
-      ],
-      "corroborating_sources": [],
-      "rank": 78
+      "rank": 81
     },
     {
       "id": "TP-20fc0c317b9e",
@@ -2115,16 +2193,16 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
       "confidence": 64,
-      "importance": 63,
-      "freshness": 55,
-      "momentum": 46,
+      "importance": 62,
+      "freshness": 50,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 79
+      "rank": 82
     },
     {
       "id": "TP-d781200a2b8d",
@@ -2141,68 +2219,16 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/",
       "confidence": 64,
-      "importance": 63,
-      "freshness": 55,
-      "momentum": 46,
+      "importance": 62,
+      "freshness": 50,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 80
-    },
-    {
-      "id": "TP-b311cc820708",
-      "cluster_id": "CL-0014",
-      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
-      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T18:49:30+00:00",
-      "source": "TechCrunch",
-      "source_type": "secondary",
-      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 57,
-      "momentum": 47,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "TechCrunch"
-      ],
-      "corroborating_sources": [],
-      "rank": 81
-    },
-    {
-      "id": "TP-b92f2e8122a4",
-      "cluster_id": "CL-0029",
-      "title": "Disney’s first CTO is Character.AI’s former CEO",
-      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T18:54:39+00:00",
-      "source": "The Verge",
-      "source_type": "secondary",
-      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
-      "confidence": 61,
-      "importance": 62,
-      "freshness": 57,
-      "momentum": 47,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "The Verge"
-      ],
-      "corroborating_sources": [],
-      "rank": 82
+      "rank": 83
     },
     {
       "id": "TP-26bd35d9b365",
@@ -2219,61 +2245,35 @@
       "source_type": "secondary",
       "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
       "confidence": 64,
-      "importance": 63,
-      "freshness": 54,
-      "momentum": 46,
+      "importance": 62,
+      "freshness": 50,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Ars Technica"
       ],
       "corroborating_sources": [],
-      "rank": 83
+      "rank": 84
     },
     {
-      "id": "TP-c66e17dedfe7",
-      "cluster_id": "CL-0097",
-      "title": "What to expect at Meta Connect 2026: New AI glasses, a mixed reality headset and more",
-      "summary": "There's a lot for Mark Zuckerberg to cover at this year's keynote.",
+      "id": "TP-802486953da2",
+      "cluster_id": "CL-0029",
+      "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements […]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "AI",
       "subcategory": "AI",
-      "published_at": "2026-09-18T20:35:11+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
-      "confidence": 58,
-      "importance": 60,
-      "freshness": 60,
-      "momentum": 49,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 84
-    },
-    {
-      "id": "TP-e56e57fc8de6",
-      "cluster_id": "CL-0023",
-      "title": "The colorful, unique Hyte X50 PC case is $50 off",
-      "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Hardware",
-      "subcategory": "Hardware",
-      "published_at": "2026-09-18T18:06:08+00:00",
+      "published_at": "2026-09-18T19:09:19+00:00",
       "source": "The Verge",
       "source_type": "secondary",
-      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "url": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
       "confidence": 61,
-      "importance": 61,
-      "freshness": 56,
-      "momentum": 47,
+      "importance": 60,
+      "freshness": 53,
+      "momentum": 45,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
@@ -2283,34 +2283,138 @@
       "rank": 85
     },
     {
-      "id": "TP-3e25d109671f",
-      "cluster_id": "CL-0129",
-      "title": "MFA Won't Save You From OAuth Consent Abuse",
-      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+      "id": "TP-0f3cb72b85c7",
+      "cluster_id": "CL-0070",
+      "title": "Here’s How an AI Slowdown Could Actually Be Enforced",
+      "summary": "Even if big AI companies agree to a pause, ensuring that nobody tries to sneak ahead could prove tricky.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T19:21:09+00:00",
+      "source": "WIRED",
+      "source_type": "secondary",
+      "url": "https://www.wired.com/story/heres-how-an-ai-slowdown-could-actually-work/",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 53,
+      "momentum": 45,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "WIRED"
+      ],
+      "corroborating_sources": [],
+      "rank": 86
+    },
+    {
+      "id": "TP-c30f05e681c9",
+      "cluster_id": "CL-0126",
+      "title": "Cisco Zero-Day Highlights API Endpoint Authentication Issues",
+      "summary": "The authentication bypass flaw CVE-2026-76460 impacts Cisco's Identity Services Engine (ISE) and received a maximum 10 out of 10 CVSS score.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "Cybersecurity",
       "subcategory": "Cybersecurity",
-      "published_at": "2026-09-18T18:15:20+00:00",
+      "published_at": "2026-09-18T19:26:47+00:00",
       "source": "Dark Reading",
       "source_type": "secondary",
-      "url": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/cisco-zero-day-api-endpoint-authentication-issues",
       "confidence": 61,
-      "importance": 61,
-      "freshness": 56,
-      "momentum": 47,
+      "importance": 60,
+      "freshness": 53,
+      "momentum": 45,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "Dark Reading"
       ],
       "corroborating_sources": [],
-      "rank": 86
+      "rank": 87
+    },
+    {
+      "id": "TP-5ef16b943470",
+      "cluster_id": "CL-0127",
+      "title": "EY Survey Finds Autonomous AI Implementation Outpaces Oversight",
+      "summary": "A new survey of senior AI execs shows that while organizations are rapidly deploying AI and autonomous systems, their process and controls are not keeping pace.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T19:23:48+00:00",
+      "source": "Dark Reading",
+      "source_type": "secondary",
+      "url": "https://www.darkreading.com/cyberattacks-data-breaches/ey-survey-autonomous-ai-implementation-outpaces-oversight",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 53,
+      "momentum": 45,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Dark Reading"
+      ],
+      "corroborating_sources": [],
+      "rank": 88
+    },
+    {
+      "id": "TP-b311cc820708",
+      "cluster_id": "CL-0016",
+      "title": "A new kind of AI model from a ChatGPT inventor is thrilling developers",
+      "summary": "Jev, a new kind of AI model, is showing developers a cheaper and faster path to software intelligence.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T18:49:30+00:00",
+      "source": "TechCrunch",
+      "source_type": "secondary",
+      "url": "https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 52,
+      "momentum": 45,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "TechCrunch"
+      ],
+      "corroborating_sources": [],
+      "rank": 89
+    },
+    {
+      "id": "TP-b92f2e8122a4",
+      "cluster_id": "CL-0030",
+      "title": "Disney’s first CTO is Character.AI’s former CEO",
+      "summary": "You would think that a multimedia conglomerate as large as Disney would have a few chief technology officers by now, but the company has just appointed someone to the position for the very first time. Today, Disney announced that Karandeep Anand is joining the company as its new CTO. Anand will report directly to recently […]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T18:54:39+00:00",
+      "source": "The Verge",
+      "source_type": "secondary",
+      "url": "https://www.theverge.com/entertainment/997555/karandeep-anand-disney-character-ai",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 52,
+      "momentum": 45,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 90
     },
     {
       "id": "TP-13515f2f4514",
-      "cluster_id": "CL-0015",
+      "cluster_id": "CL-0017",
       "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
       "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2323,20 +2427,72 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
       "confidence": 61,
-      "importance": 61,
-      "freshness": 55,
-      "momentum": 46,
+      "importance": 60,
+      "freshness": 51,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 87
+      "rank": 91
+    },
+    {
+      "id": "TP-e56e57fc8de6",
+      "cluster_id": "CL-0024",
+      "title": "The colorful, unique Hyte X50 PC case is $50 off",
+      "summary": "The Hyte X50 is a PC case that really stands out from the typical black box design, and it’s $50 off at the company’s site until September 21st, 2026, bringing the price down to $99.99. This attractive case supports motherboards from ITX all the way up to the E-ATX form factors, and GPUs that are […]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Hardware",
+      "subcategory": "Hardware",
+      "published_at": "2026-09-18T18:06:08+00:00",
+      "source": "The Verge",
+      "source_type": "secondary",
+      "url": "https://www.theverge.com/gadgets/997467/hyte-x50-pc-case-deal-sale",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 51,
+      "momentum": 44,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "The Verge"
+      ],
+      "corroborating_sources": [],
+      "rank": 92
+    },
+    {
+      "id": "TP-3e25d109671f",
+      "cluster_id": "CL-0128",
+      "title": "MFA Won't Save You From OAuth Consent Abuse",
+      "summary": "MFA is essential, but it cannot replace OAuth governance, least-privilege scopes, consent monitoring, and rapid revocation.",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "Cybersecurity",
+      "subcategory": "Cybersecurity",
+      "published_at": "2026-09-18T18:15:20+00:00",
+      "source": "Dark Reading",
+      "source_type": "secondary",
+      "url": "https://www.darkreading.com/vulnerabilities-threats/mfa-oauth-consent-abuse",
+      "confidence": 61,
+      "importance": 60,
+      "freshness": 51,
+      "momentum": 44,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "Dark Reading"
+      ],
+      "corroborating_sources": [],
+      "rank": 93
     },
     {
       "id": "TP-102d3b773b13",
-      "cluster_id": "CL-0016",
+      "cluster_id": "CL-0018",
       "title": "In India, the new iPhone can arrive faster than a pizza",
       "summary": "Availability of Apple's iPhone 18 Pro series turned patchy within hours of its debut on India's quick-commerce apps.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2349,20 +2505,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
       "confidence": 61,
-      "importance": 61,
-      "freshness": 55,
-      "momentum": 46,
+      "importance": 60,
+      "freshness": 50,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 88
+      "rank": 94
     },
     {
       "id": "TP-96293117e2ed",
-      "cluster_id": "CL-0017",
+      "cluster_id": "CL-0019",
       "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
       "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2375,98 +2531,20 @@
       "source_type": "secondary",
       "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
       "confidence": 61,
-      "importance": 61,
-      "freshness": 54,
-      "momentum": 46,
+      "importance": 60,
+      "freshness": 50,
+      "momentum": 44,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 89
-    },
-    {
-      "id": "TP-e9c02b53d388",
-      "cluster_id": "CL-0018",
-      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
-      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T17:26:41+00:00",
-      "source": "TechCrunch",
-      "source_type": "secondary",
-      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
-      "confidence": 61,
-      "importance": 61,
-      "freshness": 54,
-      "momentum": 46,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "TechCrunch"
-      ],
-      "corroborating_sources": [],
-      "rank": 90
-    },
-    {
-      "id": "TP-9666e4173566",
-      "cluster_id": "CL-0019",
-      "title": "Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?",
-      "summary": "A week after an Anthropic researcher’s doomsday warning rattled the AI world, the company’s CEO Dario Amodei has outlined his plan to “pace the frontier” of AI development. The proposal leans on independent safety evaluators and coordination between AI labs in democratic countries, and it’s already picked up some industry support, along with some pointed pushback from Nvidia’s Jensen Huang. Watch […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T17:09:56+00:00",
-      "source": "TechCrunch",
-      "source_type": "secondary",
-      "url": "https://techcrunch.com/video/dario-amodei-and-other-ai-leaders-want-to-pace-the-frontier-buthow/",
-      "confidence": 61,
-      "importance": 61,
-      "freshness": 54,
-      "momentum": 46,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "TechCrunch"
-      ],
-      "corroborating_sources": [],
-      "rank": 91
-    },
-    {
-      "id": "TP-d6d3cbab58d8",
-      "cluster_id": "CL-0030",
-      "title": "The real story of the iPhone 18 Pro’s camera",
-      "summary": "It's one of the most fascinating years in a while when it comes to iPhone camera upgrades. The big story of the iPhone 18 Pro is the variable aperture main lens, which lets you open the aperture up wider for better low light shots and make the aperture smaller for better depth of field in […]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T17:06:37+00:00",
-      "source": "The Verge",
-      "source_type": "secondary",
-      "url": "https://www.theverge.com/podcast/997366/the-real-story-of-the-iphone-18-pros-camera",
-      "confidence": 61,
-      "importance": 61,
-      "freshness": 54,
-      "momentum": 46,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "The Verge"
-      ],
-      "corroborating_sources": [],
-      "rank": 92
+      "rank": 95
     },
     {
       "id": "TP-079e661c04ce",
-      "cluster_id": "CL-0151",
+      "cluster_id": "CL-0149",
       "title": "New experts join Google’s AI & Economy team",
       "summary": "Text \"AI & Economy Research Program\" all over a green grid background, with the Google G logo in the bottom right corner",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2479,72 +2557,20 @@
       "source_type": "primary",
       "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/",
       "confidence": 72,
-      "importance": 61,
-      "freshness": 47,
-      "momentum": 42,
+      "importance": 60,
+      "freshness": 43,
+      "momentum": 40,
       "verification_status": "VERIFIED",
       "status": "NEW",
       "tags": [
         "Google AI Blog"
       ],
       "corroborating_sources": [],
-      "rank": 93
-    },
-    {
-      "id": "TP-2ec191d24980",
-      "cluster_id": "CL-0098",
-      "title": "The new Resident Evil movie captures the survival horror magic of the games",
-      "summary": "Resident Evil is yet another horror classic from the director of Weapons.",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Gaming",
-      "subcategory": "Gaming",
-      "published_at": "2026-09-18T18:56:15+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262746/the-new-resident-evil-movie-captures-the-survival-horror-magic-of-the-games/",
-      "confidence": 58,
-      "importance": 59,
-      "freshness": 57,
-      "momentum": 47,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 94
-    },
-    {
-      "id": "TP-f4d7a87470ac",
-      "cluster_id": "CL-0099",
-      "title": "Disney hires ex-CEO of AI company it accused of copyright infringement",
-      "summary": "What's a little IP theft between friends?",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T18:36:47+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262703/disney-hires-ex-ceo-of-ai-company-it-accused-of-copyright-infringement/",
-      "confidence": 58,
-      "importance": 59,
-      "freshness": 57,
-      "momentum": 47,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
-      ],
-      "corroborating_sources": [],
-      "rank": 95
+      "rank": 96
     },
     {
       "id": "TP-eb7139f19125",
-      "cluster_id": "CL-0114",
+      "cluster_id": "CL-0113",
       "title": "Gyazo server flaw exploited to steal 23.6 million user records",
       "summary": "The Gyazo image-sharing platform has confirmed it suffered a data breach after hackers exploited a server vulnerability that allowed them to steal 23.6 million user records. [...]",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2557,98 +2583,46 @@
       "source_type": "secondary",
       "url": "https://www.bleepingcomputer.com/news/security/gyazo-server-flaw-exploited-to-steal-236-million-user-records/",
       "confidence": 64,
-      "importance": 62,
-      "freshness": 51,
-      "momentum": 44,
+      "importance": 61,
+      "freshness": 47,
+      "momentum": 42,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "BleepingComputer"
-      ],
-      "corroborating_sources": [],
-      "rank": 96
-    },
-    {
-      "id": "TP-39dfb4d8d6fd",
-      "cluster_id": "CL-0100",
-      "title": "FCC allows Gulf state wealth funds to own nearly half of Paramount-Warner Bros.",
-      "summary": "Great news for the Ellisons and Saudi Arabia. Everyone else: not so much!",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "Technology",
-      "subcategory": "Technology",
-      "published_at": "2026-09-18T18:22:10+00:00",
-      "source": "Engadget",
-      "source_type": "secondary",
-      "url": "https://www.engadget.com/2262681/fcc-allows-gulf-state-wealth-funds-to-own-nearly-half-of-paramount-warner-bros/",
-      "confidence": 58,
-      "importance": 59,
-      "freshness": 56,
-      "momentum": 47,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "Engadget"
       ],
       "corroborating_sources": [],
       "rank": 97
     },
     {
-      "id": "TP-3e46b7fa9a5c",
-      "cluster_id": "CL-0115",
-      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
-      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
-      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
-      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
-      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
-      "category": "AI",
-      "subcategory": "AI",
-      "published_at": "2026-09-18T15:19:06+00:00",
-      "source": "BleepingComputer",
-      "source_type": "secondary",
-      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
-      "confidence": 64,
-      "importance": 62,
-      "freshness": 50,
-      "momentum": 44,
-      "verification_status": "DEVELOPING",
-      "status": "DEVELOPING",
-      "tags": [
-        "BleepingComputer"
-      ],
-      "corroborating_sources": [],
-      "rank": 98
-    },
-    {
-      "id": "TP-21ded5da2f91",
+      "id": "TP-e9c02b53d388",
       "cluster_id": "CL-0020",
-      "title": "Manus seeks $4B valuation in new $500M fundraise as it resumes independent ops",
-      "summary": "Manus, which earlier this year had to break off a merger with Meta, is in discussions to raise $500M at a $4B valuation.",
+      "title": "Joby Aviation’s 3,100-mile autonomous flight signals its push beyond electric air taxis",
+      "summary": "An aircraft equipped with Joby Aviation's autonomy technology flew across the United States without a human pilot taking control at any point.",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
       "what_changes": "No additional practical change is asserted beyond the available source evidence.",
       "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
       "category": "AI",
       "subcategory": "AI",
-      "published_at": "2026-09-18T16:35:49+00:00",
+      "published_at": "2026-09-18T17:26:41+00:00",
       "source": "TechCrunch",
       "source_type": "secondary",
-      "url": "https://techcrunch.com/2026/09/18/manus-seeks-4b-valuation-in-new-500m-fundraise-as-it-resumes-independent-ops/",
+      "url": "https://techcrunch.com/2026/09/18/joby-aviations-3100-mile-autonomous-flight-signals-its-push-beyond-electric-air-taxis/",
       "confidence": 61,
       "importance": 60,
-      "freshness": 53,
-      "momentum": 45,
+      "freshness": 49,
+      "momentum": 43,
       "verification_status": "DEVELOPING",
       "status": "DEVELOPING",
       "tags": [
         "TechCrunch"
       ],
       "corroborating_sources": [],
-      "rank": 99
+      "rank": 98
     },
     {
       "id": "TP-13d62ca6fcfd",
-      "cluster_id": "CL-0152",
+      "cluster_id": "CL-0150",
       "title": "Co-creating the future of fashion with Google",
       "summary": "Jane Wade and Sergio Hudson",
       "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
@@ -2661,13 +2635,39 @@
       "source_type": "primary",
       "url": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
       "confidence": 72,
-      "importance": 61,
-      "freshness": 45,
-      "momentum": 41,
+      "importance": 60,
+      "freshness": 41,
+      "momentum": 39,
       "verification_status": "VERIFIED",
       "status": "NEW",
       "tags": [
         "Google AI Blog"
+      ],
+      "corroborating_sources": [],
+      "rank": 99
+    },
+    {
+      "id": "TP-3e46b7fa9a5c",
+      "cluster_id": "CL-0114",
+      "title": "Fake LastPass Authenticator GitHub repos push new Rapuncel infostealer",
+      "summary": "An ongoing malware campaign uses SEO-optimized GitHub repositories to impersonate well-known software firms to push a previously undocumented information stealer called Rapuncel. [...]",
+      "why_it_matters": "The development may affect the relevant technology, users, businesses, or industry direction. Review the evidence and original reporting for context.",
+      "what_changes": "No additional practical change is asserted beyond the available source evidence.",
+      "whats_next": "Watch for official statements, independent confirmation, and subsequent updates.",
+      "category": "AI",
+      "subcategory": "AI",
+      "published_at": "2026-09-18T15:19:06+00:00",
+      "source": "BleepingComputer",
+      "source_type": "secondary",
+      "url": "https://www.bleepingcomputer.com/news/security/fake-lastpass-authenticator-github-repos-push-new-rapuncel-infostealer/",
+      "confidence": 64,
+      "importance": 61,
+      "freshness": 45,
+      "momentum": 41,
+      "verification_status": "DEVELOPING",
+      "status": "DEVELOPING",
+      "tags": [
+        "BleepingComputer"
       ],
       "corroborating_sources": [],
       "rank": 100
